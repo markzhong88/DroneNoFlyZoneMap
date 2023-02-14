@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7210AC74-497C-4791-AEE3-A5333D120E87"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BE23DBE-0FE1-472F-B8C6-3272B6653F8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BE23DBE-0FE1-472F-B8C6-3272B6653F8B - a649b394b049bbbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoFlyZoneMap.NoFlyZoneViewController.loadNationalParkGeoJson() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "9BE23DBE-0FE1-472F-B8C6-3272B6653F8B - a649b394b049bbbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoFlyZoneMap.NoFlyZoneViewController.loadNationalParkGeoJson() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "808">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4B24CB8-512D-4AE3-819E-01B9D9384542"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4B24CB8-512D-4AE3-819E-01B9D9384542 - a649b394b049847a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoFlyZoneMap.NoFlyZoneViewController.loadNationalParkGeoJson() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1456">
+               </Location>
+               <Location
+                  uuid = "C4B24CB8-512D-4AE3-819E-01B9D9384542 - 473cd8966ec3656c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.MGLSource) -&gt; Swift.String in NoFlyZoneMap.NoFlyZoneViewController.loadNationalParkGeoJson() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64C39EB8-B1CF-4B73-BD13-BE60313A6026"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64C39EB8-B1CF-4B73-BD13-BE60313A6026 - a649b394b0498503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoFlyZoneMap.NoFlyZoneViewController.loadNationalParkGeoJson() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "1880">
+               </Location>
+               <Location
+                  uuid = "64C39EB8-B1CF-4B73-BD13-BE60313A6026 - 5ea8a89f79c44bbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.MGLStyleLayer) -&gt; Swift.String in NoFlyZoneMap.NoFlyZoneViewController.loadNationalParkGeoJson() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE3C4412-E8C2-4708-8ADF-39570C28C571"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37253B43-6F8B-45D5-A406-DB68DC7764C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62A0327D-571B-420C-A43C-5F42E7F67D0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DCDEBCE-A97A-4E45-AE30-DBE901BA8F46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F086D68-BA20-40E4-AED9-509E376A50C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "loadNationalParkGeoJson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5341F37F-6D9C-498A-8949-1E90A0E0262B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "loadUASFlightRestriction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB20BC25-CA9E-4B56-B850-A0A3421EEE5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "loadUASFlightRestriction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CBC52AA-2E17-42BB-8989-A408A050CA69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "loadUASFlightRestriction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CBC52AA-2E17-42BB-8989-A408A050CA69 - b125bfad5365eab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NoFlyZoneMap.NoFlyZoneViewController.loadUASFlightRestriction() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "2CBC52AA-2E17-42BB-8989-A408A050CA69 - 8c75f7e8caec0324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.MGLSource) -&gt; Swift.String in NoFlyZoneMap.NoFlyZoneViewController.loadUASFlightRestriction() -&gt; ()"
+                  moduleName = "NoFlyZoneMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markzhong/Documents/GitHub/NoFlyZoneMap/NoFlyZoneMap/NoFlyZoneViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB63DA62-7E07-45D8-A37F-D4682C2103DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NoFlyZoneMap/NoFlyZoneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "loadUASFlightRestriction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
